@@ -1,0 +1,15 @@
+Copyright 1986-2018 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2018.3 (win64) Build 2405991 Thu Dec  6 23:38:27 MST 2018
+| Date         : Thu Feb 19 10:53:38 2026
+| Host         : DESKTOP-CCGRA5G running 64-bit major release  (build 9200)
+| Command      : report_bus_skew -warn_on_violation -file block_noa_bus_skew_routed.rpt -pb block_noa_bus_skew_routed.pb -rpx block_noa_bus_skew_routed.rpx
+| Design       : block_noa
+| Device       : xq7a50t-cs325
+| Speed File   : -2I  PRODUCTION 1.11 2017-05-11
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Bus Skew Report
+
+No bus skew constraints
+
